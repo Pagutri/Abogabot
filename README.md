@@ -35,3 +35,7 @@ Prácticas de la primera semana de Frontend para el programa Launch X de Innovac
 - Prefiere comunicarse por correo electrónico en lugar de hacer llamadas.
 
 - Ingresos económicos altos.
+
+## Público objetivo
+
+Despachos de abogados y cualquier persona que quiera hacer una demanda y pueda pagar el servicio.
