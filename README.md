@@ -39,3 +39,15 @@ Prácticas de la primera semana de Frontend para el programa Launch X de Innovac
 ## Público objetivo
 
 Despachos de abogados y cualquier persona que quiera hacer una demanda y pueda pagar el servicio.
+
+## Diseño wireframe y UX
+
+Los wireframes están guardados en la carpeta de wireframes y pueden verse en el siguiente link al site-map del sitio:
+
+https://www.figma.com/file/qW6ZBuMVx54e54IroTCCHL/Abogabot
+
+## Diseño UI
+
+El diseño UI de una de las páginas del sitio puede verse en el siguiente link:
+
+https://www.figma.com/file/IZF6qxYaWZD7xF47BabIw8/Abogabot_UI
